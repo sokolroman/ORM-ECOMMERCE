@@ -16,7 +16,7 @@ An e-commerce site that utilizes Express.js and API's that is configured with Se
 
 [GITHUB REPO](https://github.com/sokolroman/ORM-ECOM-BACK-END)
 
-Click [here](https://1drv.ms/v/s!AnaG2finThsyhgkYytvO_4Pw6YUc?e=WWCy2m) to go to watch video.
+Click [here](https://1drv.ms/v/s!AnaG2finThsyhgkYytvO_4Pw6YUc?e=WWCy2m) to watch video.
 
 ## User Story
 
