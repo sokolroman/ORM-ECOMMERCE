@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End 
 Object-Relational Mapping (ORM) Challenge: E-commerce Back End
 
 ## Description
@@ -6,7 +6,11 @@ An e-commerce site that utilizes Express.js and API's that is configured with Se
 
 ## Preview
 
-  ![screenshot 1](S1.png)
+https://user-images.githubusercontent.com/72160963/209010436-ff594c80-50d5-4263-b76d-11aaa8186d03.mov
+
+
+
+https://user-images.githubusercontent.com/72160963/209009847-7576c522-e9db-4c25-bfe9-9b256058aa4a.mov
 
 ## License
 
@@ -16,7 +20,6 @@ An e-commerce site that utilizes Express.js and API's that is configured with Se
 
 [GITHUB REPO](https://github.com/sokolroman/ORM-ECOM-BACK-END)
 
-Click [here](https://1drv.ms/v/s!AnaG2finThsyhgkYytvO_4Pw6YUc?e=WWCy2m) to watch video.
 
 ## User Story
 
